@@ -1,4 +1,7 @@
-# intro_git_r
+![](images/ds_banner.jpeg)
+
+
+# A poem for classy Data Scientists
 a repo for version control r studio projects
 
 Data science is pretty cool,
