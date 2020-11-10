@@ -1,4 +1,4 @@
-# intro_git_r
+# Git in R Studio
 a repo for version control r studio projects
 
 Data science is pretty cool,
