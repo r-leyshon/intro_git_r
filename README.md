@@ -1,4 +1,4 @@
-# intro_git_r
+# Intro to Version Controlled R projects
 a repo for version control r studio projects
 
 Data science is pretty cool,
